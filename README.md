@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm NEZMIL MUHAMMED TS</h1>
 <h3 align="center">A Data Enthusiast from India</h3>
 
-- 🔭 I’m currently working on **Cluster Analysis**
+- 🔭 I’m currently working on **Gold Prize Prediction**
 
 - 🌱 I’m currently learning **Deep Learning and AI**
 
