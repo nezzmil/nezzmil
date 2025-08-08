@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm NEZMIL MUHAMMED TS</h1>
 <h3 align="center">A Data Enthusiast from India</h3>
 
-- 🔭 I’m currently working on **Gold Prize Prediction**
+- 🔭 I’m currently working on ** Dashboards**
 
-- 🌱 I’m currently learning **Deep Learning and AI**
+- 🌱 I’m currently learning **PowerBI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nezzmil](https://github.com/nezzmil)
 
-- 💬 Ask me about **SQL,EXCEL,PYTHON,ML ALGORITHMS**
+- 💬 Ask me about **SQL,EXCEL,PYTHON,PowerBI**
 
 - 📫 How to reach me **nezmilts@gmail.com**
 
